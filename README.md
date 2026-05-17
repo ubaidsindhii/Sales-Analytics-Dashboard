@@ -14,6 +14,10 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue tr
 - Region-wise Performance
 - Interactive Filters & Slicers
 - Revenue Insights
+- 
+## Dashboard Review
+
+![Sales Dashboard](salesh-dashboard.png)
 
 ## Key Insights
 - Identified top-performing regions
