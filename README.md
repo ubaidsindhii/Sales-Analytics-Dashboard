@@ -1,2 +1,31 @@
-# Sales-Analytics-Dashboard
-Developed an interactive Sales Analytics Dashboard using Power BI to analyze revenue, customer trends, and sales performance. Created KPI-based visualizations, charts, and filters to generate business insights and support data-driven decision making.
+# Sales Analytics Dashboard
+
+## Overview
+Interactive Power BI dashboard designed to analyze sales performance, revenue trends, and customer insights.
+
+## Tools Used
+- Power BI
+- Excel
+- SQL
+
+## Features
+- KPI Cards
+- Sales Trend Analysis
+- Region-wise Performance
+- Interactive Filters & Slicers
+- Revenue Insights
+
+## Dashboard Preview
+
+
+## Key Insights
+- Identified top-performing regions
+- Analyzed monthly revenue growth
+- Compared customer purchasing trends
+
+## Project Files
+- dashboard.pbix
+
+
+## Author
+Ubaid Sindhi
