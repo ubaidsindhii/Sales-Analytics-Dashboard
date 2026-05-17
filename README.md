@@ -15,9 +15,6 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue tr
 - Interactive Filters & Slicers
 - Revenue Insights
 
-## Dashboard Preview
-
-
 ## Key Insights
 - Identified top-performing regions
 - Analyzed monthly revenue growth
@@ -25,7 +22,6 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue tr
 
 ## Project Files
 - dashboard.pbix
-
 
 ## Author
 Ubaid Sindhi
