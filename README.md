@@ -18,6 +18,7 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue tr
 ## Dashboard Review
 
 ![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard](sales-dashboard1.png)
 
 ## Key Insights
 - Identified top-performing regions
