@@ -26,7 +26,7 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue tr
 - Compared customer purchasing trends
 
 ## Project Files
-- dashboard.pbix
+- Dashboard.pbix
 
 ## Author
 Ubaid Sindhi
